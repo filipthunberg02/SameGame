@@ -1,5 +1,7 @@
 # SameGame
 
+![Screenshot of SameGame](SameGame.png)
+
 A Java implementation of the classic tile-matching puzzle SameGame, built using the Model–View–Controller pattern and the Observer design pattern.
 
 ---
